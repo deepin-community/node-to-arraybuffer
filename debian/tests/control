@@ -1,0 +1,5 @@
+Tests: require
+Depends: node-to-arraybuffer
+
+Test-Command: nodejs test.js
+Depends: @, node-tape

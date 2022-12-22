@@ -1,0 +1,26 @@
+node-to-arraybuffer (1.0.1-2) unstable; urgency=medium
+
+  * Team Upload
+
+  [ Debian Janitor ]
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+
+  [ Jérémy Lal ]
+  * Fix deprecation warning and failing tests
+  * Section: javascript
+  * Standards-Version: 4.5.0
+  * install to /usr/share/nodejs
+
+ -- Jérémy Lal <kapouer@melix.org>  Sat, 25 Jul 2020 16:32:36 +0200
+
+node-to-arraybuffer (1.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #862323)
+
+ -- Pirate Praveen <praveen@debian.org>  Thu, 11 May 2017 17:02:38 +0530
